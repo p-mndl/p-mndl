@@ -1,16 +1,13 @@
-## Hi there 👋
+### 👋 Hey, my name is Philipp  
+* MBA trying to make the switch
+* My journey into data engineering, scripting and coding
 
-<!--
-**p-mndl/p-mndl** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### So far I am working with ![VBA](https://img.shields.io/badge/VBA-217346?style=flat&logo=microsoft-excel&logoColor=white) & ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)  
 
-Here are some ideas to get you started:
+### My goals
+* Solid Python skills
+* Python notebooks for data engineering (pandas/polars/duckdb)
+* Javascript (with focus on Microsoft Power Apps)
+* Dive into SQL
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=p-mndl&show_icons=true&theme=dark)
